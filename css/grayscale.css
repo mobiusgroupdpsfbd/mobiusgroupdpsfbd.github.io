@@ -322,3 +322,6 @@ body {
   right: 0;
   overflow: auto;
 }
+#applPTSans {
+  font-family:'PT Sans',sans-serif;
+}
