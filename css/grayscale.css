@@ -325,4 +325,6 @@ body {
 #applPTSans {
   font-family:'PT Sans',sans-serif;
 }
-script[type="text/plain"] {display:block;}
+script[type="text/plain"] {
+  display:block;
+}
